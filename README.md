@@ -1,5 +1,3 @@
-# STM32 F446 Test Project
-
 ## Build Environment
 This project uses a containerized build system to ensure consistency across environments.
 
